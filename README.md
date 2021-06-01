@@ -1,4 +1,4 @@
-# jenkins-expert
+# Jenkins Server implementation
 
 This repository contains an implementation of the Jenkins server for tasks automation. In this project are implemented tasks like:
 
