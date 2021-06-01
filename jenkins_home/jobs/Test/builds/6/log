@@ -1,0 +1,9 @@
+Started by user [8mha:////4Eit4iUtIiaDMO+hq3futuO/gb0jK7fE6yC/ULq4zcEhAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZe/dLi1CL9rILkMiMjIwBDpP6IwgAAAA==[0mJuan Castro
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/Test
+[Test] $ /bin/sh -xe /tmp/jenkins6209475100743513984.sh
++ NOMBRE=Juan
++ APELLIDO=Castro
++ /opt/script.sh Juan Castro
+Hola,  
+Finished: SUCCESS

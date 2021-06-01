@@ -1,0 +1,10 @@
+- hosts: test1
+  tasks: 
+
+  - debug: 
+      msg: "Yo no me voy a ejecutar menor"
+    tags: no-exec
+
+  - debug: 
+      msg: "Yo sí me ejecuto socio"
+    tags: si-exec 

@@ -1,0 +1,20 @@
+Started by user [8mha:////4Eit4iUtIiaDMO+hq3futuO/gb0jK7fE6yC/ULq4zcEhAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZe/dLi1CL9rILkMiMjIwBDpP6IwgAAAA==[0mJuan Castro
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/backup-db-aws
+[SSH] script:
+DB_NAME="test_db"
+DB_PWD=**********
+PWD="/"
+AWS_SECRET=**********
+BUCKET_NAME="jenkins-udemy-jpcv"
+DB_HOST="db_host"
+
+/tmp/script-aws.sh $DB_HOST $DB_PWD $DB_NAME $AWS_SECRET $BUCKET_NAME
+
+[SSH] executing...
+Completed 1.8 KiB/1.8 KiB (2.4 KiB/s) with 1 file(s) remainingupload: ../../tmp/db-15-48-59.sql to s3://jenkins-udemy-jpcv/db-15-48-59.sql
+
+[SSH] completed
+[SSH] exit-status: 0
+
+Finished: SUCCESS

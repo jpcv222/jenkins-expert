@@ -1,0 +1,12 @@
+Started at Tue Jun 01 14:08:59 UTC 2021
+Processing ansible-job
+Offering ansible-job to Project Build Discarder
+Processing backup-db-aws
+Offering backup-db-aws to Project Build Discarder
+Processing remote-task
+Offering remote-task to Project Build Discarder
+Processing Test
+Offering Test to Project Build Discarder
+Processing test-param
+Offering test-param to Project Build Discarder
+Finished at Tue Jun 01 14:08:59 UTC 2021. 32ms
